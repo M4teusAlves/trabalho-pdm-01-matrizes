@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabalho Matrizes</string>
+    <string name="inserir">Inserir</string>
+    <string name="limpar">Limpar</string>
+    <string name="aviso">Aviso</string>
+    <string name="buscar">Buscar</string>
+    <string name="digite_um_valor">Digite um valor</string>
+    <string name="digite_um_valor_para_busca">Digite um valor para busca</string>
+</resources>
